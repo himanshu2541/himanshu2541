@@ -12,12 +12,13 @@
 
 ### 👨‍💻 About Me
 
+I am Himanshu, a 4th-year undergraduate at **IIT Kharagpur**
+
 - 🔭 **I’m currently architecting** **Nyayik**, a microservices-based LegalTech SaaS, and building **GraphRAG agents** for policy analysis.
 - 👯 **I’m looking to collaborate on** scalable **Event-Driven Architectures** and optimizing **Local LLM Orchestration** (Mistral/Phi).
 - 🤝 **I’m looking for help with** advanced **gRPC streaming patterns** and fine-tuning **Vector + Graph hybrid search** algorithms.
 - 🌱 **I’m currently exploring** the intersection of **Knowledge Graphs** and **Generative AI** to reduce hallucinations in production systems.
 - 💬 **Ask me about** **SOLID Design Principles**, implementing **Clean Architecture** in Python, or debugging obscure `.env` caching issues.
-- ⚡ **Fun fact:** I apply the same rigor to **Software Architecture** as I do to modeling **Fluid Instabilities** and **Thermodynamics**.
 
 ---
 
@@ -61,4 +62,5 @@
 | :--- | :--- | :--- |
 | **Nyayik** | A microservices-based LegalTech SaaS platform. | `FastAPI` `Microservices` `React` |
 | **Policy Assistant** | RAG-based chatbot using Graph databases for complex query resolution. | `GraphRAG` `Mistral-7b` `Neo4j` |
-| **Trade Engine** | Real-time trade clearing and analytics engine. | `Python` `Pandas` `WebSocket` |
+| **NLP-to-SQL Engine** | AI-powered interface converting natural language questions into executable SQL. | `LangChain` `Python` `PostgreSQL` |
+| **Git Sentinel** | Automated repository monitoring and security analysis tool. | `Python` `GitHooks` `CI/CD` |
