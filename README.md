@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Microservices+Architect;GraphRAG+%26+AI+Developer;Fluid+Dynamics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Microservices+Architect;GraphRAG+%26+AI+Developer" alt="Typing SVG" />
   
   <p>
     <a href="https://linkedin.com/in/himanshu2541"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
